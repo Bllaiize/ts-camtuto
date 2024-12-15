@@ -13,7 +13,8 @@ This script allows you to manage and execute multiple cameras in FiveM, perfect 
 
 1. Clone or download this repository into your server's `resources` folder:  
    ```bash
-   git clone https://github.com/your-name/fivem-tutorial-cameras.git```
+   git clone https://github.com/Bllaiize/ts-camtuto.git
+   ```
 
 2. Add the scripts to your server.cfg :
 ```ensure ts-camtuto```
